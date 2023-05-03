@@ -108,4 +108,10 @@ public class medium {
         int r = noSubsequencer(i + 1, emptylist, arr, sum, calculatedSum);
         return l + r;
     }
+
+    // print all subsequences for repititive values from an array suming to a
+    // target.
+    public static void repititiveSubSequence(int index, List<Integer> emptyList, int[] arr, int remainder) {
+
+    }
 }

@@ -1,4 +1,4 @@
-package slidingWindow;
+package slidingwindow;
 
 public class MaxLengthSubarray {
 
